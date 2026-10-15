@@ -44,7 +44,3 @@ Place `train.csv`, `val.csv`, `classname.txt`, and their matching `train/` and `
 
 The trained model is saved as `models/flower_classifier.keras` for potential future use in a Streamlit app. MobileNetV2 pretrained weights may be downloaded on first run.
 
-## 🔮 Future Improvements
-
-- Train with more images and evaluate on a larger external validation set.
-- Build an interactive Streamlit flower classifier.
